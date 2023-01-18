@@ -1,5 +1,7 @@
 # C867-C-Project
 
+Program that represents a understanding of working with C++. 
+
 ### INTRODUCTION
 Throughout your career in software development, you will develop and maintain new and existing applications. You will be expected to fix issues as well as add new enhancements or migrate existing applications to new platforms or different programming languages. As a software developer, your role will be to create a design of an application based on given business requirements. After the design is completed, you must implement the application based on the design document and provided requirements.
 
